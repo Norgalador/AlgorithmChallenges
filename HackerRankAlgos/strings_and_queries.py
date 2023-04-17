@@ -18,3 +18,5 @@ def matchingStrings(strings, queries):
     for match in matches.values():
         results.append(match)
     return results
+
+# From Trae and Gray ^
