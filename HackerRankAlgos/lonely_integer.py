@@ -22,3 +22,5 @@ def lonelyinteger(a):
 
 
 lonelyinteger([1,2,3,4,3,2,1])
+
+# currently getting a TypeError
