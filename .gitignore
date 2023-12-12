@@ -1,0 +1,58 @@
+# MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Python virtual environment
+venv/
+ENV/
+
+# Python distutils
+build/
+dist/
+*.egg-info/
+*.egg
+
+# JavaScript related
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Java related
+*.class
+
+# Package files
+*.jar
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# C# related
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.sln.docstates
+
+# Misc
+session.vim
